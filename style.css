@@ -1,0 +1,51 @@
+h1{
+background-color: #eab308;
+padding-top: 1.5rem;
+padding-bottom: 1.5rem;
+text-align: center;
+font-size: xx-large;
+border-bottom-left-radius: 1rem;
+border-top-right-radius: 1rem;
+
+}
+
+textarea{
+    margin: auto;
+    border:2px solid black;
+    width: 50%;
+    padding: 1rem;
+
+}
+
+#output{
+    margin: auto;
+    border: 3px solid black;
+    width: 50%;
+    padding: 1rem;
+}
+
+
+    button {
+        margin: auto;
+        display: block;
+        font-size: medium;
+        font-weight: bolder;
+        border-width: 0.1rem;
+        
+        
+    
+   
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem;
+    background-color: #eab308 ;
+    text-align: center;
+}
+
+
+
+
